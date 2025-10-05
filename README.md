@@ -1,16 +1,26 @@
-# taller_segundo_plano
+#  Taller Segundo Plano
 
-A new Flutter project.
+Este proyecto es una aplicación desarrollada con **Flutter** como parte del taller de ejecución en **segundo plano**.  
+Permite comprender el funcionamiento de tareas que se ejecutan incluso cuando la app no está activa en primer plano.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+##  Tecnologías utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- **Flutter**   
+- **Dart**   
+- **Android Studio / VS Code** 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Objetivo del proyecto
+
+Aprender e implementar procesos que corren en **segundo plano**, tales como:
+- Ejecución de servicios o tareas automáticas.
+- Envío de notificaciones locales.
+- Control del ciclo de vida de una app Flutter.
+
+---
+
+##  Estructura del proyecto
+
